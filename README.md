@@ -1,3 +1,5 @@
+ADS1115 linux driver for Jetson Nano, if you want to use this driver on raspberry Pi, consider modify the device tree overlay.
+
 ## Prepare
 
 Get the public_sources.tbz2 for jetson nano from NVDIA download page
